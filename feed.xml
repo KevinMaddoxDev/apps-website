@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>test</title>
+    <title>Kevin Maddox Apps</title>
     <link href="https://kevinmaddoxdev.github.io/apps-website/feed.xml" rel="self" />
     <link href="https://kevinmaddoxdev.github.io/apps-website" />
-    <updated>2025-04-24T12:18:29-05:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>kevin</name>
     </author>
     <id>https://kevinmaddoxdev.github.io/apps-website</id>
 
-    <entry>
-        <title>Test post on the test repo</title>
-        <author>
-            <name>kevin</name>
-        </author>
-        <link href="https://kevinmaddoxdev.github.io/apps-website/test-post-on-the-test-repo.html"/>
-        <id>https://kevinmaddoxdev.github.io/apps-website/test-post-on-the-test-repo.html</id>
-
-        <updated>2025-04-24T12:18:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello world, this is a test post.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hello world, this is a test post.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
