@@ -30,7 +30,7 @@ url: "https://asdffirstlast.github.io" # the base hostname & protocol for your s
 # github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
