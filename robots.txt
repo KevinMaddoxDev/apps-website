@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://asdffirstlast.github.io/test/sitemap.xml
+Sitemap: https://kevinmaddoxdev.github.io/apps-website/sitemap.xml
