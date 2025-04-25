@@ -3,12 +3,28 @@
     <title>Kevin Maddox Apps</title>
     <link href="https://kevinmaddoxdev.github.io/apps-website/feed.xml" rel="self" />
     <link href="https://kevinmaddoxdev.github.io/apps-website" />
-    <updated>2025-04-24T16:51:53-05:00</updated>
+    <updated>2025-04-24T19:33:30-05:00</updated>
     <author>
         <name>Kevin</name>
     </author>
     <id>https://kevinmaddoxdev.github.io/apps-website</id>
 
+    <entry>
+        <title>image test</title>
+        <author>
+            <name>Kevin</name>
+        </author>
+        <link href="https://kevinmaddoxdev.github.io/apps-website/image-test.html"/>
+        <id>https://kevinmaddoxdev.github.io/apps-website/image-test.html</id>
+
+        <updated>2025-04-24T19:33:30-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://kevinmaddoxdev.github.io/apps-website/media/posts/10/icon-512-0.png" alt="" width="512" height="512" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-xs.png 640w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-sm.png 768w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-md.png 1024w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-lg.png 1366w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-xl.png 1600w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Puzzle Block Sprites</title>
         <author>
