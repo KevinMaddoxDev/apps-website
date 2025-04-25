@@ -3,28 +3,12 @@
     <title>Kevin Maddox Apps</title>
     <link href="https://kevinmaddoxdev.github.io/apps-website/feed.xml" rel="self" />
     <link href="https://kevinmaddoxdev.github.io/apps-website" />
-    <updated>2025-04-24T19:33:30-05:00</updated>
+    <updated>2025-04-24T19:37:28-05:00</updated>
     <author>
         <name>Kevin</name>
     </author>
     <id>https://kevinmaddoxdev.github.io/apps-website</id>
 
-    <entry>
-        <title>image test</title>
-        <author>
-            <name>Kevin</name>
-        </author>
-        <link href="https://kevinmaddoxdev.github.io/apps-website/image-test.html"/>
-        <id>https://kevinmaddoxdev.github.io/apps-website/image-test.html</id>
-
-        <updated>2025-04-24T19:33:30-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://kevinmaddoxdev.github.io/apps-website/media/posts/10/icon-512-0.png" alt="" width="512" height="512" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-xs.png 640w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-sm.png 768w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-md.png 1024w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-lg.png 1366w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-xl.png 1600w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/10/responsive/icon-512-0-2xl.png 1920w"></figure>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Puzzle Block Sprites</title>
         <author>
@@ -41,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h3><figure class="post__image"><img loading="lazy"  src="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/FeatureImage-wordpress-800.png" alt="" width="800" height="391" sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/responsive/FeatureImage-wordpress-800-xs.png 640w ,file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/responsive/FeatureImage-wordpress-800-sm.png 768w ,file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/responsive/FeatureImage-wordpress-800-md.png 1024w ,file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/responsive/FeatureImage-wordpress-800-lg.png 1366w ,file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/responsive/FeatureImage-wordpress-800-xl.png 1600w ,file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/responsive/FeatureImage-wordpress-800-2xl.png 1920w"></figure></h3>
+                <h3><figure class="post__image"><img loading="lazy"  src="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/FeatureImage.png" alt="" width="1024" height="500" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/responsive/FeatureImage-xs.png 640w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/9/responsive/FeatureImage-sm.png 768w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/9/responsive/FeatureImage-md.png 1024w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/9/responsive/FeatureImage-lg.png 1366w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/9/responsive/FeatureImage-xl.png 1600w ,https://kevinmaddoxdev.github.io/apps-website/media/posts/9/responsive/FeatureImage-2xl.png 1920w"></figure></h3>
 <h3 class="wp-block-heading"><strong>Welcome to Puzzle Block Sprites!</strong></h3>
 <p>Get ready for a delightful and strategic puzzle experience! Match colorful blocks, solve challenging puzzles, and unlock exciting power-ups in this simple yet addictive mobile game. Perfect for quick play sessions or hours of fun!</p>
 <h3 class="wp-block-heading"><strong>How to Play:</strong></h3>
@@ -58,10 +42,10 @@
 <h3 class="wp-block-heading"><strong>Download Now &amp; Start Playing!</strong></h3>
 <p>Available on <a href="https://play.google.com/store/apps/details?id=com.KevinMaddox.PuzzleMatch" target="_blank" rel="noreferrer noopener"><strong>Google Play</strong>.</a></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/gallery/Screenshot-Jan-14-2025-3_55_11-PM.png" data-size="1080x2160"><img loading="lazy" src="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/gallery/Screenshot-Jan-14-2025-3_55_11-PM-thumbnail.png" alt="" width="720" height="1440"></a></figure>
-<figure class="gallery__item"><a href="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/gallery/screenshot.png" data-size="281x500"><img loading="lazy" src="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/gallery/screenshot-thumbnail.png" alt="" width="281" height="500"></a></figure>
-<figure class="gallery__item"><a href="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/gallery/Screenshot_20250114-155438.png" data-size="1080x2160"><img loading="lazy" src="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/gallery/Screenshot_20250114-155438-thumbnail.png" alt="" width="720" height="1440"></a></figure>
-<figure class="gallery__item"><a href="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/gallery/Screenshot_20250114-155550.png" data-size="1080x2160"><img loading="lazy" src="file:///C:/Users/asdff/Documents/Publii/sites/kevin-maddox-apps/input/media/posts/3/gallery/Screenshot_20250114-155550-thumbnail.png" alt="" width="720" height="1440"></a></figure>
+<figure class="gallery__item"><a href="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/gallery/Screenshot-Jan-14-2025-3_55_11-PM.png" data-size="1080x2160"><img loading="lazy" src="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/gallery/Screenshot-Jan-14-2025-3_55_11-PM-thumbnail.png" alt="" width="720" height="1440"></a></figure>
+<figure class="gallery__item"><a href="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/gallery/Screenshot_20250114-155438.png" data-size="1080x2160"><img loading="lazy" src="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/gallery/Screenshot_20250114-155438-thumbnail.png" alt="" width="720" height="1440"></a></figure>
+<figure class="gallery__item"><a href="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/gallery/screenshot.png" data-size="281x500"><img loading="lazy" src="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/gallery/screenshot-thumbnail.png" alt="" width="281" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/gallery/Screenshot_20250114-155550.png" data-size="1080x2160"><img loading="lazy" src="https://kevinmaddoxdev.github.io/apps-website/media/posts/9/gallery/Screenshot_20250114-155550-thumbnail.png" alt="" width="720" height="1440"></a></figure>
 </div></div>
 <h3 class="wp-block-heading"><strong>Follow Us:</strong></h3>
 <p><a href="https://www.facebook.com/profile.php?id=61572857685586" target="_blank" rel="noreferrer noopener">Facebook</a></p>
