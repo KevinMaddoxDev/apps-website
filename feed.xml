@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Kevin Maddox Apps</title>
+    <title>Kevin Maddox</title>
     <link href="https://kevinmaddox.pages.dev/feed.xml" rel="self" />
     <link href="https://kevinmaddox.pages.dev" />
-    <updated>2025-04-24T19:37:28-05:00</updated>
+    <updated>2025-04-27T10:54:07-05:00</updated>
     <author>
         <name>Kevin</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2025-04-24T16:51:23-05:00</updated>
             <summary>
                 <![CDATA[
-                    Welcome to Puzzle Block Sprites! Get ready for a delightful and strategic puzzle experience! Match colorful blocks, solve challenging puzzles, and unlock exciting power-ups in this simple yet addictive mobile game. Perfect for quick play sessions or hours of fun! 🎮 Simple &amp; Fun Gameplay: Easy&hellip;
+                    Welcome to Puzzle Block Sprites! Get ready for a delightful and strategic puzzle experience! Match colorful blocks, solve challenging puzzles, and unlock exciting power-ups in this simple yet addictive mobile game. Perfect for quick play sessions or hours of fun!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -65,7 +65,7 @@
         <updated>2025-04-24T16:48:32-05:00</updated>
             <summary>
                 <![CDATA[
-                    Kevin Maddox built the Puzzle Block Sprites game as an Ad Supported game. This SERVICE is provided by Kevin Maddox at no cost and is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and&hellip;
+                    Kevin Maddox built the Puzzle Block Sprites game as an Ad Supported game. This SERVICE is provided by Kevin Maddox at no cost and is intended for use as is. This page is used to inform visitors regarding my policies&hellip;
                 ]]>
             </summary>
         <content type="html">
